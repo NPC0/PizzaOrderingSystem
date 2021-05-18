@@ -1,6 +1,6 @@
 # PizzaOrderingSystem
 ### Group 2
-### Members: Junwei Wang, Samuel Ironkwe, Jasmin Dhaliwal, Apurv Bhandari
+### Members:Yu Shi, Samuel Ironkwe, Junwei Wang, Jasmin Dhaliwal, Apurv Bhandari
 
 # Iteration
 
