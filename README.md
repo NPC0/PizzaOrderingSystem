@@ -13,6 +13,21 @@ The application will provide a quick and seamless ordering system for users. It 
 The system will initially be a standalone application, but in the future, it will be accessible to all users via the Internet. It will be created for the pizza but will be adaptable to other restaurants
 The success criteria will be measured based on the number of downloads of the app and an increase in the number of orders placed through the app. 
 
+Menu screens - to access the menu with clear descriptions of dishes and high quality photos 
+
+Ingredient adjustment - to add or remove ingredients
+
+Online payment - to pay for food and delivery online
+
+Loyalty programs - for example, discounts, bonuses, promo codes
+
+Order history - to see the history of orders with the possibility to repeat orders in a few clicks
+
+Help and customer support - for example, live chat and call option
+
+Customer comments - feedback of how customers perceive Pizza
+
+
 
 
 
